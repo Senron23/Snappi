@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://SS-R-s-workspace-tohh9u.eu-central-1.xata.sh/db/Snappy",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
